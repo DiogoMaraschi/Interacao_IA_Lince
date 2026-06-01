@@ -6,3 +6,4 @@
  
  ## ✅ Variáveis
  ## ✅ Coleções
+ ## ✅ Funções
