@@ -7,3 +7,4 @@
  ## ✅ Variáveis
  ## ✅ Coleções
  ## ✅ Funções
+ ## ✅ Operadores
