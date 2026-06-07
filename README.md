@@ -9,3 +9,4 @@
  ## ✅ Funções
  ## ✅ Operadores
  ## ✅ Condicionais e Laços
+ ## ✅ Exceções
