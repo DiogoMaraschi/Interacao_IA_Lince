@@ -14,3 +14,6 @@
  ## ✅ Orientação a Objeto - Part 2
 
  ## ✅ Flutter - Introdução
+ ## ✅ Flutter - Widgets
+ ## ✅ Flutter - Formulários
+ ## ✅ Flutter - Rotas
