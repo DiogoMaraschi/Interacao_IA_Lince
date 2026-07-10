@@ -17,3 +17,4 @@
  ## ✅ Flutter - Widgets
  ## ✅ Flutter - Formulários
  ## ✅ Flutter - Rotas
+ ## ✅ Flutter - Assíncrono
