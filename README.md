@@ -18,3 +18,5 @@
  ## ✅ Flutter - Formulários
  ## ✅ Flutter - Rotas
  ## ✅ Flutter - Assíncrono
+ ## ✅ Flutter - Estado
+ ## ✅ Flutter - Persistencia
