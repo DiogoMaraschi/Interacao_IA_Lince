@@ -20,3 +20,4 @@
  ## ✅ Flutter - Assíncrono
  ## ✅ Flutter - Estado
  ## ✅ Flutter - Persistencia
+ ## ✅ Flutter - Internaciolização
