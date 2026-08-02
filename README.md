@@ -21,3 +21,5 @@
  ## ✅ Flutter - Estado
  ## ✅ Flutter - Persistencia
  ## ✅ Flutter - Internaciolização
+
+ ## ✅ Flutter - SQLite
